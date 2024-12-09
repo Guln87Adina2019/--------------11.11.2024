@@ -1,0 +1,52 @@
+header{
+    background-color: rgb(52, 95, 10);
+    display: flex;
+    color: azure;
+    margin: 0;
+    justify-content: space-between;
+}
+.мәтін{
+    margin: 0px 0px 5px;
+
+}
+.button{
+    margin: 0px 0 0px;
+}
+.school{
+    display: flex;
+    display: ;
+
+
+}
+.sureti{
+    display: flex;
+    grid-template-columns: 10px 10px 10px;
+    gap: 50px;
+
+}
+.item{
+    width:50px ;
+    height: 100px;
+}
+.тәбіл{
+    background-color: rgb(52, 160, 160);
+
+}
+.тәбіл1{
+    margin-top: 10px;
+    background-color: rgb(81, 227, 227);
+
+}
+.ful-stack{
+    text-align: center;
+    margin-top: 30px;
+
+}
+main{
+    display: inline;;
+}
+
+.form{
+    margin: 50px;
+    display: flex;
+}

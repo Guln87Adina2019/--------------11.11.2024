@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: teal;
+    padding: 20px;
+    h1{
+        color: white ;
+    }
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 15%;
+}
+.main-container{
+    display: flex;
+    gap: 10px;
+
+}
+.img-container{
+   display: grid;
+   grid-template-columns:100px 100px 100px 100px;
+   grid-template-rows: 120px;
+   gap: 20px;
+}
+.img{
+    width: 120px ;
+    height: 120px ;
+}
+.table-teal{
+    background-color: teal;
+}
+tr,th,td{
+    padding: 10px 20px;
+}
+.button{
+    width: 80px ;
+    height: 50px;
+    background-color: teal;
+    border-radius: 5px;
+    align-self: center ;
+}
+.main-container2{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding-top: 40px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+section h2{
+    text-align: center;
+    margin: 20px 0;
+}
+.youtube{
+    width: 800px ;
+    height: 400px;
+}
+footer h4{
+    text-align: center;
+}

@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: #48b38f;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+}
+.amjilt-title{
+    color: #fff;
+}
+.box{
+    background-color: azure;
+    padding: 10px;
+}
+main{
+    width: 70px;
+    height: 15px auto;
+}
